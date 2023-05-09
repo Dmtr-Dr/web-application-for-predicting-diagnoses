@@ -7,7 +7,9 @@ You can find the bot at the link: https://t.me/diagnosis_pred_bot
 
 You can find the datasets used in the project at the following links:
 [https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
+
 [https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c)
+
 [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Files contains Jupyter notebooks for data exploration, model training and evaluation:
