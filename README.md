@@ -14,7 +14,9 @@ You can find the datasets used in the project at the following links:
 
 ## Files contains Jupyter notebooks for data exploration, model training and evaluation:
 mri_keras
+
 scan_keras
+
 xray_keras
 
 ## File contains Jupyter notebook for telegram bot:
@@ -23,19 +25,29 @@ web_app_bot
 ## Dependencies:
 
 Python 3.6 or later
+
 TensorFlow 2.x
+
 Keras
+
 NumPy
+
 Matplotlib
+
 Scikit-learn
+
 Aiogram
 
 ## Installation:
 
 Clone the repository to your local machine
+
 Create a virtual environment using Python 3.6 or later
+
 Activate the virtual environment
+
 Install the dependencies by running pip install -r requirements.txt in your terminal
+
 
 ## Usage:
 
